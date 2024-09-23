@@ -1,2 +1,0 @@
-# sumedh-porfolio
-Porfolio Website

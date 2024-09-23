@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'sumedh-porfolio',
 
-  projectId: 'nweq3bbj',
+  projectId: '4brongpx',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
